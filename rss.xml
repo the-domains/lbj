@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LBJ]]></title>
         <description><![CDATA[LBJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lbj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 18:53:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:57:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lbj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lebron tore is up last night. Big time. Dropping 22 and destroying the pistons</p>]]></description>
-            <link>undefinedlebron-tore-is-up-last-night-big-time-dropping-22-and-dest/index.html</link>
+            <link>https://thegrid.ai/lbj/lebron-tore-is-up-last-night-big-time-dropping-22-and-dest/index.html</link>
             <guid isPermaLink="false">52cac61b-9dba-401c-932b-7a9647372201</guid>
-            <pubDate>Mon, 25 Apr 2016 18:53:44 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 18:57:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
