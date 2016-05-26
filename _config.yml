@@ -1,28 +1,40 @@
-name: LBJ
-favicon: null
-layout_spectrum: 0.25555
-typography_spectrum: 0.53702
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#252523'
-    - '#ffffff'
-    - '#fbe037'
-    - '#a46a45'
-    - '#a82c36'
-  brandStrength: 0.16889731236733496
-  lightness: 0.4375
-  saturation: 0.15233726403675973
-  rhythmicContrast: 0.5507814807351679
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.625448
+  brandStrength: 0.168897312367335
+  lightness: 0.6577061
+  brandColors:
+    - '#85A4C3'
+    - '#C3D2D7'
+    - '#ECA87B'
+    - '#2E4E5B'
+    - '#FDE26C'
+  rhythmicContrast: 0.734767
+typography_spectrum: 0.781362
+layout_spectrum: 0.9175627
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: LBJ
